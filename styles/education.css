@@ -1,0 +1,38 @@
+* {
+    background-color: #d7919c;
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+}
+h1:hover{
+    color: black;
+}
+header p {
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding: 2%;
+}
+.faith {
+    text-align: center;
+    list-style-position: inside;
+  }
+  ol {
+      text-align: center;
+  }
+h2 {
+    text-align: center;
+    margin: 50px auto;
+    color: white;
+}
+footer{
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
