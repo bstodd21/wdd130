@@ -174,5 +174,14 @@ nav a:hover {
   border-right: 1px solid;
 }
 .house1, .house2, .house3 {
-  width: 100%
+  width: 100%;
+}
+.house4, .house5, .house6 {
+  width: 100%;
+}
+.interior1, .interior2, .interior3 {
+  width: 100%;
+}
+.logo {
+  width: 100%;
 }
